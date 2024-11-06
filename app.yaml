@@ -1,5 +1,4 @@
 runtime: php80
-env: standard
 api_version: 1
 handlers:
 - url: /
